@@ -1,0 +1,695 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+XRECORD: name="ACDB_RECOMPOSE_DATA", handle="347", group="280", value="     1"
+WARNING (003526): XRECORD object group 90 unknown/not supported - ignored.
+XRECORD: name="DWGPROPS", handle="348", group="280", value="     1"
+WARNING (003662): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (003664): XRECORD object group 2 unknown/not supported - ignored.
+WARNING (003666): XRECORD object group 3 unknown/not supported - ignored.
+WARNING (003668): XRECORD object group 4 unknown/not supported - ignored.
+WARNING (003670): XRECORD object group 6 unknown/not supported - ignored.
+WARNING (003672): XRECORD object group 7 unknown/not supported - ignored.
+WARNING (003674): XRECORD object group 8 unknown/not supported - ignored.
+WARNING (003676): XRECORD object group 9 unknown/not supported - ignored.
+WARNING (003678): XRECORD object group 300 unknown/not supported - ignored.
+WARNING (003680): XRECORD object group 301 unknown/not supported - ignored.
+WARNING (003682): XRECORD object group 302 unknown/not supported - ignored.
+WARNING (003684): XRECORD object group 303 unknown/not supported - ignored.
+WARNING (003686): XRECORD object group 304 unknown/not supported - ignored.
+WARNING (003688): XRECORD object group 305 unknown/not supported - ignored.
+WARNING (003690): XRECORD object group 306 unknown/not supported - ignored.
+WARNING (003692): XRECORD object group 307 unknown/not supported - ignored.
+WARNING (003694): XRECORD object group 308 unknown/not supported - ignored.
+WARNING (003696): XRECORD object group 309 unknown/not supported - ignored.
+WARNING (003698): XRECORD object group 40 unknown/not supported - ignored.
+WARNING (003700): XRECORD object group 41 unknown/not supported - ignored.
+WARNING (003702): XRECORD object group 42 unknown/not supported - ignored.
+WARNING (003704): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (003706): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (008108): XRECORD object group 1070 unknown/not supported - ignored.
+WARNING (008110): XRECORD object group 1070 unknown/not supported - ignored.
+WARNING (008112): XRECORD object group 1070 unknown/not supported - ignored.
+WARNING (008768): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (008770): XRECORD object group 2 unknown/not supported - ignored.
+WARNING (008772): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (008774): XRECORD object group 91 unknown/not supported - ignored.
+WARNING (008816): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (008818): XRECORD object group 2 unknown/not supported - ignored.
+WARNING (008820): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (008822): XRECORD object group 91 unknown/not supported - ignored.
+WARNING (008868): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (008872): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (008976): XRECORD object group 148 unknown/not supported - ignored.
+WARNING (008978): XRECORD object group 149 unknown/not supported - ignored.
+WARNING (008980): XRECORD object group 149 unknown/not supported - ignored.
+WARNING (008982): XRECORD object group 93 unknown/not supported - ignored.
+WARNING (008984): XRECORD object group 94 unknown/not supported - ignored.
+WARNING (008986): XRECORD object group 282 unknown/not supported - ignored.
+WARNING (008988): XRECORD object group 72 unknown/not supported - ignored.
+WARNING (008990): XRECORD object group 77 unknown/not supported - ignored.
+WARNING (008992): XRECORD object group 171 unknown/not supported - ignored.
+WARNING (008994): XRECORD object group 175 unknown/not supported - ignored.
+WARNING (008996): XRECORD object group 179 unknown/not supported - ignored.
+WARNING (008998): XRECORD object group 273 unknown/not supported - ignored.
+WARNING (009022): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009024): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009026): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009028): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009030): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009032): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009034): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009036): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009038): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009040): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009042): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009044): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009046): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009048): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009050): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009052): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009054): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009056): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009058): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009060): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009062): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009064): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009066): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009068): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009070): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009072): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009074): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009076): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009078): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009080): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009082): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009084): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009086): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009088): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009090): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009092): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009094): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009096): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009098): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009100): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009102): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009104): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009106): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009108): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009130): XRECORD object group 148 unknown/not supported - ignored.
+WARNING (009132): XRECORD object group 149 unknown/not supported - ignored.
+WARNING (009134): XRECORD object group 149 unknown/not supported - ignored.
+WARNING (009136): XRECORD object group 93 unknown/not supported - ignored.
+WARNING (009138): XRECORD object group 94 unknown/not supported - ignored.
+WARNING (009140): XRECORD object group 282 unknown/not supported - ignored.
+WARNING (009142): XRECORD object group 72 unknown/not supported - ignored.
+WARNING (009144): XRECORD object group 77 unknown/not supported - ignored.
+WARNING (009146): XRECORD object group 171 unknown/not supported - ignored.
+WARNING (009148): XRECORD object group 175 unknown/not supported - ignored.
+WARNING (009150): XRECORD object group 179 unknown/not supported - ignored.
+WARNING (009152): XRECORD object group 273 unknown/not supported - ignored.
+WARNING (009176): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009178): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009180): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009182): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009184): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009186): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009188): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009190): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009192): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009194): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009196): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009198): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009200): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009202): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009204): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009206): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009208): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009210): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009212): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009214): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009216): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009218): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009220): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009222): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009224): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009226): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009228): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009230): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009232): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009234): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009236): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009238): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009240): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009242): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009244): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009246): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009248): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009250): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009252): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009254): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009256): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009258): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009260): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009262): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009284): XRECORD object group 148 unknown/not supported - ignored.
+WARNING (009286): XRECORD object group 149 unknown/not supported - ignored.
+WARNING (009288): XRECORD object group 149 unknown/not supported - ignored.
+WARNING (009290): XRECORD object group 93 unknown/not supported - ignored.
+WARNING (009292): XRECORD object group 94 unknown/not supported - ignored.
+WARNING (009294): XRECORD object group 282 unknown/not supported - ignored.
+WARNING (009296): XRECORD object group 72 unknown/not supported - ignored.
+WARNING (009298): XRECORD object group 77 unknown/not supported - ignored.
+WARNING (009300): XRECORD object group 171 unknown/not supported - ignored.
+WARNING (009302): XRECORD object group 175 unknown/not supported - ignored.
+WARNING (009304): XRECORD object group 179 unknown/not supported - ignored.
+WARNING (009306): XRECORD object group 273 unknown/not supported - ignored.
+WARNING (009344): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (009346): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (009370): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009372): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009374): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009376): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009378): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009380): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009382): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009384): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009386): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009388): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009390): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009392): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009394): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009396): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009398): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009400): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009402): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009404): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009406): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009408): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009410): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009412): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009414): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009416): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009418): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009420): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009422): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009424): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009426): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009428): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009430): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009432): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009434): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009436): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009438): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009440): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009442): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009444): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009446): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009448): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009450): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009452): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009454): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009456): Long line truncated. (Maximum 255 characters allowed.)
+WARNING (009476): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (009478): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (009518): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (009522): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010188): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010190): XRECORD object group 91 unknown/not supported - ignored.
+WARNING (010192): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (010194): XRECORD object group 92 unknown/not supported - ignored.
+WARNING (010196): XRECORD object group 93 unknown/not supported - ignored.
+WARNING (010198): XRECORD object group 2 unknown/not supported - ignored.
+WARNING (010200): XRECORD object group 94 unknown/not supported - ignored.
+WARNING (010202): XRECORD object group 95 unknown/not supported - ignored.
+WARNING (010204): XRECORD object group 3 unknown/not supported - ignored.
+WARNING (010744): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010752): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010760): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010768): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010776): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010784): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010792): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010800): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010808): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010816): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010824): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (010832): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (010840): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010848): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010852): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010860): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010868): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010876): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010880): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010888): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010896): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010904): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010912): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010920): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010928): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010936): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010940): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010948): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (010956): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (010964): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (010972): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (010980): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (010988): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (011784): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011792): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011800): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011808): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011816): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011824): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011832): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011840): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011848): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011856): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011864): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (011872): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (011880): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011888): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011892): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011900): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011908): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011916): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011920): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011928): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011936): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011944): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011952): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011960): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (011968): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011976): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011980): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (011988): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (011996): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012004): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (012012): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012020): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (012028): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (012824): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012832): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012840): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012848): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012856): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012864): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012872): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012880): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012888): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012896): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012904): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (012912): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (012920): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012928): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012932): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012940): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012948): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012956): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012960): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012968): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (012976): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012984): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (012992): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013000): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013008): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013016): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013020): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013028): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (013036): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013044): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (013052): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013060): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (013068): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (013864): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013872): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013880): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013888): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013896): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013904): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013912): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013920): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013928): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (013936): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013944): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (013952): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (013960): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013968): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013972): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013980): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013988): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (013996): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014000): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014008): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014016): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014024): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014032): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014040): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014048): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014056): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014060): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014068): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (014076): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014084): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (014092): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014100): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (014108): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (014904): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014912): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014920): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014928): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014936): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014944): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014952): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014960): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014968): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (014976): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (014984): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (014992): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (015000): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015008): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015012): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015020): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015028): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015036): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015040): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015048): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015056): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015064): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015072): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015080): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015088): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015096): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015100): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015108): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (015116): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (015124): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (015132): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015140): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (015148): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (015944): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015952): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015960): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015968): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015976): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015984): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (015992): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (016000): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (016008): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (016016): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016024): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (016032): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (016040): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016048): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016052): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016060): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016068): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016076): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016080): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016088): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (016096): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016104): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016112): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016120): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (016128): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016136): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016140): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016148): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (016156): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (016164): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (016172): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (016180): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (016188): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (016984): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (016992): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017000): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017008): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017016): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017024): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017032): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017040): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017048): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017056): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017064): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (017072): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (017080): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017088): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017092): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017100): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017108): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017116): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017120): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017128): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017136): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017144): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017152): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017160): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017168): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017176): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017180): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017188): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (017196): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (017204): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (017212): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (017220): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (017228): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (018024): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018032): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018040): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018048): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018056): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018064): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018072): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018080): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018088): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018096): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018104): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (018112): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (018120): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018128): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018132): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018140): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018148): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018156): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018160): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018168): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018176): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018184): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018192): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018208): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018216): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018220): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018228): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (018236): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (018244): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (018252): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (018260): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (018268): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (019064): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019072): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019080): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019088): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019096): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019104): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019112): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019120): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019128): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019136): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019144): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (019152): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (019160): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019168): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019172): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019180): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019188): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019196): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019200): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019216): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019224): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019232): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019248): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019260): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019268): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (019276): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (019284): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (019292): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (019300): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (019308): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (020104): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020112): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020120): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020128): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020136): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020144): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020152): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020160): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020168): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020176): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020184): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (020192): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (020200): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020208): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020212): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020220): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020228): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020236): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020240): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020264): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020272): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020280): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020296): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020308): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (020316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (020324): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (020332): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (020340): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (020348): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (021144): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021152): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021160): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021168): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021176): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021216): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021224): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (021232): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (021240): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021248): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021252): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021260): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021268): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021276): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021288): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021296): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021304): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021312): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021320): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021328): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021340): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021348): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (021356): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (021364): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (021372): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (021380): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (021388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (022184): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022192): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022200): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022208): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022216): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022224): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022232): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022240): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022248): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022256): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022264): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (022272): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (022280): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022288): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022292): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022300): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022308): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022316): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022320): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022328): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022336): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022344): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022352): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022360): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022368): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022376): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022380): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (022396): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (022404): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (022412): XRECORD object group 280 unknown/not supported - ignored.
+WARNING (022420): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (022428): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (022686): Possible end of OBJECTS section before end of an XRECORD.
+WARNING (002170): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002172): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Model_Space", org=(0,0), 0 entities.
+WARNING (002194): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (002210): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002212): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space", org=(0,0), 0 entities.
+WARNING (002222): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (002236): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (002252): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002254): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space0", org=(0,0), 0 entities.
+WARNING (002264): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (002292): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002294): BLOCK object group 1 unknown/not supported - ignored.
+LWPOLYLINE entity, line 2296
+LWPOLYLINE: layer="OL", flags=0x01, #pts=5, 0=(0,5461), 1=(12954,5461), 2=(12954,-5461), 3=(0,-5461), 4=(0,5461)
+SYMBOL: layer="0", name="*U2", org=(0,0), 1 entities.
+WARNING (002364): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (002366): BLOCK object group 1 unknown/not supported - ignored.
+INSERT entity, line 2368
+WARNING (002378): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (002382): INSERT entity group 370 unknown/not supported - ignored.
+WARNING (002384): INSERT entity group 380 unknown/not supported - ignored.
+INSERT: layer="OL", name="*U2", o=(-15875,209183), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 2396
+WARNING (002406): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (002410): INSERT entity group 370 unknown/not supported - ignored.
+WARNING (002412): INSERT entity group 380 unknown/not supported - ignored.
+INSERT: layer="OL", name="*U2", o=(7865,209183), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 2424
+WARNING (002434): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (002438): INSERT entity group 370 unknown/not supported - ignored.
+WARNING (002440): INSERT entity group 380 unknown/not supported - ignored.
+INSERT: layer="OL", name="*U2", o=(31604,209183), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 2452
+WARNING (002462): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (002466): INSERT entity group 370 unknown/not supported - ignored.
+WARNING (002468): INSERT entity group 380 unknown/not supported - ignored.
+INSERT: layer="OL", name="*U2", o=(55344,209183), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 2480
+WARNING (002490): INSERT entity group 6 unknown/not supported - ignored.
+WARNING (002494): INSERT entity group 370 unknown/not supported - ignored.
+WARNING (002496): INSERT entity group 380 unknown/not supported - ignored.
+INSERT: layer="OL", name="*U2", o=(79084,209183), rot=0.0ø, xscale=1.000000, yscale=1.000000
+SYMBOL: layer="0", name="*U3", org=(0,0), 5 entities.
+LINE entity, line 2526
+LINE: layer="OL", p1=(0,0), p2=(76200,0)
+LINE entity, line 2550
+LINE: layer="OL", p1=(76200,0), p2=(76200,203200)
+LINE entity, line 2574
+LINE: layer="OL", p1=(76200,203200), p2=(101600,203200)
+LINE entity, line 2598
+LINE: layer="OL", p1=(101600,203200), p2=(38100,266700)
+LINE entity, line 2622
+LINE: layer="OL", p1=(0,0), p2=(0,203200)
+LINE entity, line 2646
+LINE: layer="OL", p1=(0,203200), p2=(-25400,203200)
+LINE entity, line 2670
+LINE: layer="OL", p1=(-25400,203200), p2=(38100,266700)
+LINE entity, line 2694
+LINE: layer="OL", p1=(38100,0), p2=(38100,266700)
+LWPOLYLINE entity, line 2718
+LWPOLYLINE: layer="OL", flags=0x01, #pts=5, 0=(92075,214644), 1=(79121,214644), 2=(79121,203722), 3=(92075,203722), 4=(92075,214644)
+LINE entity, line 2752
+LINE: layer="OL", p1=(-15875,209183), p2=(92075,209183)
+LWPOLYLINE entity, line 2776
+LWPOLYLINE: layer="OL", flags=0x01, #pts=5, 0=(-15875,214644), 1=(-2921,214644), 2=(-2921,203722), 3=(-15875,203722), 4=(-15875,214644)
+LWPOLYLINE entity, line 2810
+LWPOLYLINE: layer="OL", flags=0x01, #pts=5, 0=(7865,214644), 1=(20819,214644), 2=(20819,203722), 3=(7865,203722), 4=(7865,214644)
+LWPOLYLINE entity, line 2844
+LWPOLYLINE: layer="OL", flags=0x01, #pts=5, 0=(31604,214644), 1=(44558,214644), 2=(44558,203722), 3=(31604,203722), 4=(31604,214644)
+LWPOLYLINE entity, line 2878
+LWPOLYLINE: layer="OL", flags=0x01, #pts=5, 0=(55344,214644), 1=(68298,214644), 2=(68298,203722), 3=(55344,203722), 4=(55344,214644)
